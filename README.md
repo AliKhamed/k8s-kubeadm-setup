@@ -1,5 +1,8 @@
 # How To Setup Kubernetes Cluster Using Kubeadm
 
+![](https://github.com/AliKhamed/k8s-kubeadm-setup/blob/main/screenshots/Diagram.png)
+
+
 This guide provides step-by-step instructions to set up a Kubernetes cluster using Kubeadm. The setup includes one master node and two worker nodes. Additionally, we'll install a Kubernetes metrics server and deploy a sample Nginx application.
 
 ## Prerequisites
