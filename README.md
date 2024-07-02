@@ -34,3 +34,4 @@ terraform init
 terraform apply
 
 ```
+![Terraform Apply](https://github.com/AliKhamed/k8s-kubeadm-setup/blob/main/screenshots/terrformApply.png)
